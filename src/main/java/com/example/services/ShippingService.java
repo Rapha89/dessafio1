@@ -1,6 +1,6 @@
-package services;
+package com.example.services;
 
-import entities.Order;
+import com.example.entities.Order;
 import org.springframework.stereotype.Service;
 
 @Service
